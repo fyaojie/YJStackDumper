@@ -1,0 +1,16 @@
+PODS:
+  - YJStackDumper (0.1.0)
+
+DEPENDENCIES:
+  - YJStackDumper (from `../`)
+
+EXTERNAL SOURCES:
+  YJStackDumper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YJStackDumper: 82170d65c1ac5aae351d1a7306dcb2eaabd1a0da
+
+PODFILE CHECKSUM: e98e967ed7731e5f0d3a7fb31ad317ce86867cf2
+
+COCOAPODS: 1.11.2
